@@ -40,9 +40,8 @@
                 <!-- This part of the interface collects whatever pre-experiment information. Please come up with a basic questionnaire to help you to gather participant information. The purpose of this questionnaire is to report the participant data and convince readers that you have picked an appropriate target user group and the result has certain generalizability. -->
                 <p>Participant Number: <span class="js-pid pid"></span></p>
 
-                <p>Hi! Thank you for agreeing to take part in the experiment. Before we proceed with the experiment proper, please fill in the information for all the fields below </p>
+                <p>Hi! Thank you for agreeing to take part in the experiment. Before we proceed with the experiment proper, please fill in the information for all the fields below.</p>
 
-                <!-- information, prior experience with the computers and test techniques -->
                 <form id="pre-expt-form">
 
                     <!--Text-->
@@ -56,13 +55,13 @@
                         <label for="q2">Gender</label>
                         <div class="radio">
                             <label>
-                                <input type="radio" name="q2" id="optionsRadios1" value="radio1">
+                                <input type="radio" name="q2" id="optionsRadios1" value="Male">
                                 Male
                               </label>
                         </div>
                         <div class="radio">
                             <label>
-                                <input type="radio" name="q2" id="optionsRadios2" value="radio2">
+                                <input type="radio" name="q2" id="optionsRadios2" value="Female">
                                 Female
                               </label>
                         </div>
@@ -72,14 +71,14 @@
                     <div class="form-group">
                         <label for="q3">Age</label>
                         <select class="form-control" name="q3">
-                                <option value="option1">Under 13 years old</option>
-                                <option value="option2">13 - 17 years old</option>
-                                <option value="option3">18 - 24 years old</option>
-                                <option value="option4">25 - 34 years old</option>
-                                <option value="option5">35 - 44 years old</option>
-                                <option value="option6">45 - 54 years old</option>
-                                <option value="option7">55 - 64 years old</option>
-                                <option value="option8">65 years or older</option>
+                                <option value="<13">Under 13 years old</option>
+                                <option value="13 - 17">13 - 17 years old</option>
+                                <option value="18 - 24">18 - 24 years old</option>
+                                <option value="25 - 34">25 - 34 years old</option>
+                                <option value="35 - 44">35 - 44 years old</option>
+                                <option value="45 - 54">45 - 54 years old</option>
+                                <option value="55 - 64">55 - 64 years old</option>
+                                <option value=">=65">65 years or older</option>
                             </select>
                     </div>
 
@@ -87,14 +86,14 @@
                         <label for="q4">Level of Education</label>
                         <p>What is the highest level of educational qualification you have completed? If currently enrolled, please select the highest level of qualification received.</p>
                         <select class="form-control" name="q4">
-                                <option value="option1">No qualification</option>
-                                <option value="option2">Primary – PSLE</option>
-                                <option value="option3">Lower secondary – Sec 1–3</option>
-                                <option value="option4">Secondary – 'N' and 'O' levels</option>
-                                <option value="option5">Junior College(Upper Secondary) – 'A' level, Nitec and Higher Nitec</option>
-                                <option value="option5">Polytechnic and Arts Institution – Diploma</option>
-                                <option value="option5">Other Diploma</option>
-                                <option value="option5">University – Degree, Masters and PHD</option>
+                                <option value="No qualification">No qualification</option>
+                                <option value="Primary">Primary – PSLE</option>
+                                <option value="Lower secondary">Lower secondary – Sec 1–3</option>
+                                <option value="Secondary">Secondary – 'N' and 'O' levels</option>
+                                <option value="Junior College(Upper Secondary)">Junior College(Upper Secondary) – 'A' level, Nitec and Higher Nitec</option>
+                                <option value="Polytechnic and Arts Institution">Polytechnic and Arts Institution – Diploma</option>
+                                <option value="Other Diploma">Other Diploma</option>
+                                <option value="University">University – Degree, Masters and PHD</option>
                             </select>
                     </div>
 
@@ -103,13 +102,13 @@
                         <label for="q5">Do you own your own computer?</label>
                         <div class="radio">
                             <label>
-                                <input type="radio" name="q5" id="optionsRadios1" value="radio1">
+                                <input type="radio" name="q5" id="optionsRadios1" value="Yes">
                                 Yes
                               </label>
                         </div>
                         <div class="radio">
                             <label>
-                                <input type="radio" name="q5" id="optionsRadios2" value="radio2">
+                                <input type="radio" name="q5" id="optionsRadios2" value="No">
                                 No
                               </label>
                         </div>
@@ -119,13 +118,13 @@
                     <div class="form-group">
                         <label for="q6">In the last 30 days, how often have you used the computer?</label>
                         <select class="form-control" name="q6">
-                                <option value="option1">Never</option>
-                                <option value="option2">Once</option>
-                                <option value="option3">Once every 2 weeks</option>
-                                <option value="option4">Once every week</option>
-                                <option value="option5">2 - 3 times every week</option>
-                                <option value="option6">4 - 5 times every week</option>
-                                <option value="option7">Daily</option>
+                                <option value="Never">Never</option>
+                                <option value="Once">Once</option>
+                                <option value="Once every 2 weeks">Once every 2 weeks</option>
+                                <option value="Once every week">Once every week</option>
+                                <option value="2 - 3 times every week">2 - 3 times every week</option>
+                                <option value="4 - 5 times every week">4 - 5 times every week</option>
+                                <option value="Daily">Daily</option>
                             </select>
                     </div>
 
@@ -135,37 +134,37 @@
                         <label for="q7">What do you normally use the computer for?</label>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" name="q7" value="checkbox1">
+                                <input type="checkbox" name="q7" value="Study">
                                 Study
                               </label>
                         </div>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" name="q7" value="checkbox2">
+                                <input type="checkbox" name="q7" value="Research">
                                 Research
                               </label>
                         </div>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" name="q7" value="checkbox3">
+                                <input type="checkbox" name="q7" value="Watch videos">
                                 Watch videos
                               </label>
                         </div>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" name="q7" value="checkbox4">
+                                <input type="checkbox" name="q7" value="Play games">
                                 Play games
                               </label>
                         </div>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" name="q7" value="checkbox5">
+                                <input type="checkbox" name="q7" value="Accessing internet">
                                 Accessing the internet
                               </label>
                         </div>
                         <div class="checkbox">
                             <label>
-                                <input type="checkbox" name="q7" value="checkbox6">
+                                <input type="checkbox" name="q7" value="Others">
                                 Others
                                 <textarea class="form-control" id="q7" name="q7" placeholder="Enter response"></textarea>        
                               </label>
@@ -177,13 +176,13 @@
                         <label for="q8">Have you used CTRL-C and CTRL-V to copy and paste text when you use the computer?</label>
                         <div class="radio">
                             <label>
-                                <input type="radio" name="q8" id="optionsRadios1" value="radio1">
+                                <input type="radio" name="q8" id="optionsRadios1" value="Yes">
                                 Yes
                               </label>
                         </div>
                         <div class="radio">
                             <label>
-                                <input type="radio" name="q8" id="optionsRadios2" value="radio2">
+                                <input type="radio" name="q8" id="optionsRadios2" value="No">
                                 No
                               </label>
                         </div>
@@ -214,7 +213,7 @@
                         <div class="radio">
                             <label>
                                 <input type="radio" name="qlast" id="optionsRadios3" value="radio3">
-                                Heard of and used it before
+                                Heard of it and used it before
                               </label>
                         </div>
                     </div>
