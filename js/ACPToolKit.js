@@ -26,7 +26,10 @@ var ACPToolKit = (function () {
         var headers = [];
         var data = [];
         var pid = ACPToolKit.getCurrentParticipantId();
-        formResponses.unshift({ name: 'pid', value: pid });
+        formResponses.unshift({
+            name: 'pid',
+            value: pid
+        });
         formResponses.forEach(function (item) {
             headers.push(item.name);
             data.push(item.value);
@@ -39,7 +42,7 @@ var ACPToolKit = (function () {
         arrayToCSV(data, 'acp-' + pid + '-trials');
     }
 
-    function arrayToCSV (twoDiArray, fileName) {
+    function arrayToCSV(twoDiArray, fileName) {
         //  http://stackoverflow.com/questions/17836273/export-javascript-data
         //  -to-csv-file-without-server-interaction
         var csvRows = [];
@@ -52,10 +55,10 @@ var ACPToolKit = (function () {
 
         var csvString = csvRows.join('\r\n');
         var $a = $('<a></a>', {
-                href: 'data:attachment/csv;charset=utf-8,' + escape(csvString),
-                target: '_blank',
-                download: fileName + '.csv'
-            });
+            href: 'data:attachment/csv;charset=utf-8,' + escape(csvString),
+            target: '_blank',
+            download: fileName + '.csv'
+        });
 
         $('body').append($a[0]);
         $a.get(0).click();
@@ -66,7 +69,7 @@ var ACPToolKit = (function () {
         // Populate interface with current participant's ID
         var $pidEl = $('.js-pid');
         if ($pidEl.length > 0) {
-           $pidEl.text(module.getCurrentParticipantId());
+            $pidEl.text(module.getCurrentParticipantId());
         }
     });
 
@@ -80,11 +83,13 @@ var ACPToolKit = (function () {
             currentTrialOptions = options;
 
             var data_file = options.data_file;
+            var numWindows = options.num_windows;
             var stimuli = options.stimuli;
+            var textNum = options.text_number;
 
             $('.js-expt-technique').text(options.technique);
             $('.js-expt-granularity').text(options.granularity);
-			$('.js-expt-numWindows').text(options.numWindows);
+            $('.js-expt-numwindows').text(options.num_windows);
             $('.js-expt-stimuli').text(options.stimuli);
 
             // Clean up DOM
@@ -100,12 +105,15 @@ var ACPToolKit = (function () {
                     var engine = null;
                     break;
                 case 'ACP':
-                default:
                     var engine = new AutoComPaste.Engine();
+                    break;
+                default:
+                    var engine = null;
+
                     break;
             }
 
-            var iface = new AutoComPaste.Interface(wm, engine, data_file);
+            var iface = new AutoComPaste.Interface(wm, engine, data_file, numWindows, textNum);
 
             // Highlight the relevant text.
             iface.addEventListener('loaded', function () {
@@ -119,12 +127,12 @@ var ACPToolKit = (function () {
 
                     var win = wm.getWindowContent(windows[i]);
                     var content = $(win).find('pre').html();
-                    lines_to_highlight.map (function (value, index, array) {
-                        content = content.replace (value,
-                        "<span class=\"highlighted\">" + value + "</span>");
+                    lines_to_highlight.map(function (value, index, array) {
+                        content = content.replace(value,
+                            "<span class=\"highlighted\">" + value + "</span>");
                     });
 
-                  $(win).find('pre').empty().append(content);
+                    $(win).find('pre').empty().append(content);
                 }
             });
         }

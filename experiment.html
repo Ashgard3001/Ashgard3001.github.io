@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>CS4249 Assignment 1</title>
+    <title>Copy-Paste Experiment</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/normalize.css">
@@ -49,7 +49,7 @@
                         </tr>
                         <tr>
                             <td>Number of windows</td>
-                            <td>Multiple</td>
+                            <td><span class="js-expt-numwindows"></span></td>
                         </tr>
                         <tr>
                             <td>Trial</td>
@@ -57,7 +57,7 @@
                         </tr>
                     </tbody>
                 </table>
-                <p>Please copy-paste the following <span class="js-expt-granularity">sentence</span> using the <span class="js-expt-technique">AUTOCOMPASTE</span> technique from one of the open windows.</p>
+                <p>Please copy-paste the following <span class="js-expt-granularity">sentence</span> using the <span class="js-expt-technique">AUTOCOMPASTE</span> technique from the open windows.</p>
                 <div id="stimuli" class="alert alert-danger js-expt-stimuli">What is acceptor atoms?</div>
                 <button class="btn btn-primary btn-lg" onclick="next()">Next Task</button>
             </div>
@@ -95,7 +95,7 @@
 
                 var technique = trialResult.technique;
                 var granularity = trialResult.granularity;
-                var numWindows = trialresult.numWindows;
+                var numWindows = trialResult.num_windows;
                 var trialNum = currentTrial;
                 var stimuli = trialResult.stimuli;
                 var userResponse = trialResult.user_response;
@@ -104,7 +104,7 @@
                 var trialDuration = trialResult.duration;
                 var accuracy = stimuli === userResponse ? 1 : 0;
 
-                var row = [pid, technique, granularity, trialNum,
+                var row = [pid, technique, granularity, numWindows, trialNum,
                     stimuli, userResponse, trialStartTime,
                     trialEndTime, trialDuration, accuracy
                 ];
@@ -124,7 +124,8 @@
 
         $(document).ready(function() {
             $.get('data/experiments.json', function(data) {
-                trialsData = data.experiments;
+                parseData = JSON.parse(data);
+                trialsData = parseData.experiments;
                 currentTrial = 0;
                 totalNumberOfTrials = trialsData.length;
                 $('.js-expt-num-trials').text(totalNumberOfTrials);
