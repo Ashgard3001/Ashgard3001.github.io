@@ -105,7 +105,7 @@ var ACPToolKit = (function () {
                 case 'TRADITIONAL':
                     var engine = null;
                     break;
-                case 'ACP':
+                case 'AUTOCOMPASTE':
                     var engine = new AutoComPaste.Engine();
                     break;
                 default:
