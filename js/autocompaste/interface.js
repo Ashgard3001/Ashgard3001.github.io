@@ -111,11 +111,11 @@ AutoComPaste.Interface = (function () {
                 console.log("Interface._fetchTextComplete: Finished fetching all texts");
 
                 for (var text_title in privates.texts) {
-                    var titleArr = text_title.split("Article_");
-                    var articleNum = parseInt(titleArr[0]);
+                    var titleArr = text_title.split("_");
+                    var articleNum = parseInt(titleArr[1]);
 
                     //debug
-                    window.alert("ArticleNum: " + articleNum + " + textNum: " + textNum);
+                    window.alert("text_title: " + text_title + " + articleNum: " + articleNum);
 
 
                     if (privates.texts.hasOwnProperty(text_title)) {
