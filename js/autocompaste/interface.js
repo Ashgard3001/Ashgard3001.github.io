@@ -113,13 +113,11 @@ AutoComPaste.Interface = (function () {
                 for (var text_title in privates.texts) {
                     var titleArr = text_title.split("_");
                     var articleNum = parseInt(titleArr[0]);
-
-                    if (privates.texts.hasOwnProperty(text_title) && numWindows != 1) {
-                        console.log("Interface._fetchTextComplete: Creating window for text \"" + text_title + "\"");
-                        iface._createWindowForText(text_title);
-                    } else if (articleNum == textNum) {
-                        console.log("Interface._fetchTextComplete: Creating window for text \"" + text_title + "\"");
-                        iface._createWindowForText(text_title);
+                    if (privates.texts.hasOwnProperty(text_title)) {
+                        if ((numWindows == 1 && articleNum == textNum) || (numWindows != 1)) {
+                            console.log("Interface._fetchTextComplete: Creating window for text \"" + text_title + "\"");
+                            iface._createWindowForText(text_title);
+                        }
                     }
                 }
 
