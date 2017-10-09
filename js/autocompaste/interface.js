@@ -112,10 +112,10 @@ AutoComPaste.Interface = (function () {
 
                 for (var text_title in privates.texts) {
                     var titleArr = text_title.split("_");
-                    var articleNum = parseInt(titleArr[0]);
+                    var articleNum = parseInt(titleArr[1]);
 
                     //debug
-                    window.alert("articleNum: " + articleNum + " + textNum: " + textNum);
+                    window.alert("ArticleNum: " + articleNum + " + textNum: " + textNum);
 
 
                     if (privates.texts.hasOwnProperty(text_title)) {
