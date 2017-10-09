@@ -111,8 +111,8 @@ AutoComPaste.Interface = (function () {
                 console.log("Interface._fetchTextComplete: Finished fetching all texts");
 
                 for (var text_title in privates.texts) {
-                    var titleArr = text_title.split("_");
-                    var articleNum = parseInt(titleArr[1]);
+                    var titleArr = text_title.split("Article_");
+                    var articleNum = parseInt(titleArr[0]);
 
                     //debug
                     window.alert("ArticleNum: " + articleNum + " + textNum: " + textNum);
