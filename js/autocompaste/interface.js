@@ -115,7 +115,7 @@ AutoComPaste.Interface = (function () {
                     var dataNum = parseInt(titleArr);
 
                     //debug
-                    //window.alert(dataNum + "textNum: " + textNum);
+                    window.alert(dataNum + "textNum: " + textNum);
 
                     if (privates.texts.hasOwnProperty(text_title) && numWindows != 1) {
                         console.log("Interface._fetchTextComplete: Creating window for text \"" + text_title + "\"");
