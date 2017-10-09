@@ -169,7 +169,8 @@ AutoComPaste.Interface = (function () {
             privates.wm.setWindowContent(text_title,
                 $(document.createElement('pre'))
                 .append(privates.texts[text_title])
-                .css('white-space', 'pre-word')
+                .css('white-space', 'pre-wrap')
+                .css('word-break', 'break-word')
             );
 
             // Position the window randomly.
