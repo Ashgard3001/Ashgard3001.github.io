@@ -116,7 +116,7 @@ AutoComPaste.Interface = (function () {
                     if (privates.texts.hasOwnProperty(text_title) && numWindows != 1) {
                         console.log("Interface._fetchTextComplete: Creating window for text \"" + text_title + "\"");
                         iface._createWindowForText(text_title);
-                    } else if (dataNum == textNum[0]) {
+                    } else if (dataNum == textNum) {
                         console.log("Interface._fetchTextComplete: Creating window for text \"" + text_title + "\"");
                         iface._createWindowForText(text_title);
                     }
