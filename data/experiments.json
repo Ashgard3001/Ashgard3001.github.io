@@ -25,6 +25,14 @@
             "stimuli": "number of positive charges"
         },
         {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges"
+        },
+        {
             "technique": "TRADITIONAL",
             "granularity": "sentence",
             "num_windows": [1],
@@ -39,6 +47,14 @@
             "text_number": [5],
             "data_file": "data/texts.json",
             "stimuli": "What is AC coupling? Circuit that passes an AC signal while blocking a DC voltage."
+        },
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "phrase",
+            "num_windows": [1],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "number of positive charges"
         },
         {
             "technique": "TRADITIONAL",
