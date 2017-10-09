@@ -124,8 +124,8 @@
 
         $(document).ready(function() {
             $.get('data/experiments.json', function(data) {
-                parseData = JSON.parse(data);
-                trialsData = parseData.experiments;
+                //parseData = JSON.parse(data);
+                trialsData = /*parseD*/ data.experiments;
                 currentTrial = 0;
                 totalNumberOfTrials = trialsData.length;
                 $('.js-expt-num-trials').text(totalNumberOfTrials);
