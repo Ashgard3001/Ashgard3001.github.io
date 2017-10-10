@@ -3,7 +3,7 @@
         {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
-            "num_windows": [1],
+            "num_windows": [6],
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "Ash Ketchum is the main protagonist"

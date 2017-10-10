@@ -1,15 +1,28 @@
-What is atomic number? The number of positive charges or protons in the nucleus of an atom.
+Kingdom Hearts is a series of action role-playing games (RPG) developed and published by Square Enix. It is the result of a collaboration between Square and Disney Interactive Studiosand is under the direction of Tetsuya Nomura, a longtime Square character designer.
 
-What is attenuate? To reduce the amplitude of an action or signal. The opposite of amplification.
+Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series. In addition, it has an all-star voice cast which includes many of the Disney characters' official voice actors. Characters from Square Enix's Final Fantasy series make appearances and interact with the player and Disney characters. The series centers around the main character, Sora, in his search for his friends and his encounters with Disney and Final Fantasy characters on their worlds.
 
-What is audio? Relating to frequencies that can be heard by the human ear. Approximately 20 Hz to 20 kHz.
+The Kingdom Hearts series currently consists of seven games across different video game platforms, with two remakes, and four spin-off games. Future titles are planned. Most of the games in the series have been both critically acclaimed and commercially successful, though each installment has seen varying levels of success. As of December 2006, the Kingdom Hearts series has shipped over ten million copies worldwide, with 2.0 million copies in PAL regions, 3.0 million copies in Japan, and 5.6 million copies in North America.
 
-What is autotransformer? A single winding transformer where the output is taken from taps on the winding.
+There have been several types of merchandise released along with the games, such as soundtracks, figurines, and companion books. In addition, the games have also been adapted into a manga series and novels. In the U.S., the manga stopped production after Kingdom Hearts II Vol. 2 because of company issues. Japan has already moved onto Kingdom Hearts 358/2 Days manga and the novels of all the games are only available there.
 
-What is average value? A value of voltage or current where the area of the wave above the value equals the area of the wave below the value.
+The series is mostly in sequential order. The first game in the timeline is Kingdom Hearts χ, which gives an insight into the series of events which led up to the Keyblade War. Kingdom Hearts Birth by Sleep is the next game in the series, and tells the story of three Keyblade wielders (Terra, Ventus, and Aqua) a long time after the Keyblade War has taken place. Ten years later is where the first Kingdom Hearts picks up, revolving around the first adventure of Sora.
+Next are Kingdom Hearts: Chain of Memories and Kingdom Hearts: 358/2 Days which take place around the same time as each other. Kingdom Hearts II follows Kingdom Hearts: Chain of Memories & Kingdom Hearts 358/2 Days, and takes place one year after Kingdom Hearts though it is more so a sequel to Kingdom Hearts rather than the Gameboy Advance game. Kingdom Hearts coded takes place briefly after Kingdom Hearts II but before the latter's final ending, seen after the end credits.
+After Kingdom Hearts coded is Kingdom Hearts 3D: Dream Drop Distance[1], and the game's ending will lead fairly directly into Kingdom Hearts III,[2] which will serve as the final chapter of what Tetsuya Nomura calls the "Xehanort Saga".
 
-What is avionics? Aviation electronics.
-
-What is balanced bridge? Condition that occurs when a bridge circuit is adjusted to produce a zero output.
-
-What is band-pass filter? A tuned circuit designed to pass a band of frequencies between a lower cut-off frequency (f1) and a higher cut-off frequency (f2). Frequencies above and below the pass band are heavily attenuated.
+This is the chronological order of the games released within the series:
+1.	Kingdom Hearts X
+2.	Kingdom Hearts X Back Cover
+3.	Kingdom Hearts Birth by Sleep (Main Story)
+4.	Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage- (Begun)
+5.	Kingdom Hearts (Begun)
+6.	Kingdom Hearts 358/2 Days (Begun)
+7.	Kingdom Hearts (Ended)
+8.	Kingdom Hearts: Chain of Memories
+9.	Kingdom Hearts 358/2 Days (Ended)
+10.	Kingdom Hearts II (Main Story)
+11.	Kingdom Hearts coded
+12.	Kingdom Hearts II (Epilogue)
+13.	Kingdom Hearts Birth by Sleep (Epilogue)
+14.	Kingdom Hearts 3D: Dream Drop Distance
+15.	Kingdom Hearts 0.2 Birth by Sleep -A fragmentary passage- (Ended)
