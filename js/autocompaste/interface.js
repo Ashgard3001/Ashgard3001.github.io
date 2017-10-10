@@ -118,7 +118,6 @@ AutoComPaste.Interface = (function () {
                     //check if articleNum was parsed correctly
                     //window.alert("Text Title: " + text_title + " + articleNum: " + articleNum);
 
-
                     if (privates.texts.hasOwnProperty(text_title)) {
                         //if there is only one window open, check for the the article number and open the window for that article
                         if ((numWindows == 1 && articleNum == textNum) || (numWindows != 1)) {
