@@ -3,7 +3,7 @@
         {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
-            "num_windows": [6],
+            "num_windows": [1],
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "Ash Ketchum is the main protagonist"
@@ -12,9 +12,9 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [1],
-            "text_number": [1],
+            "text_number": [2],
             "data_file": "data/texts.json",
-            "stimuli": "Pikachu is Ash's best friend."
+            "stimuli": "It is equipped with the invincible ‘Grey Sword’ and ‘Brave Shield Omega’ for its WarGreymon-shaped left arm, and the ‘Garuru Cannon’ and missiles for its MetalGarurumon-shaped right arm."
         },
         {
             "technique": "AUTOCOMPASTE",
@@ -30,7 +30,7 @@
             "num_windows": [1],
             "text_number": [6],
             "data_file": "data/texts.json",
-            "stimuli": "number of positive charges"
+            "stimuli": "the soul of the God of Destruction has wandered"
         },
         {
             "technique": "TRADITIONAL",
