@@ -138,12 +138,14 @@
                 trialData.push(row);
             }
 
+            if (currentTrial == 2) {
+                breakTime;
+            }
+
             if (currentTrial < totalNumberOfTrials) {
                 ACPToolKit.presentTrial(trialsData[currentTrial]);
                 currentTrial += 1;
                 $('.js-expt-current-trial').text(currentTrial);
-            } else if (currentTrial == 37) {
-                breakTime;
             } else {
                 // Last trial completed
                 ACPToolKit.downloadTrialResults(trialData);
