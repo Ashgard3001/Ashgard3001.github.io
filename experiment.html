@@ -137,6 +137,9 @@
                 ];
                 trialData.push(row);
             }
+            if (currentTrial == 3) {
+                breaktime();
+            }
 
             if (currentTrial < totalNumberOfTrials) {
                 ACPToolKit.presentTrial(trialsData[currentTrial]);
@@ -160,10 +163,7 @@
                 totalNumberOfTrials = trialsData.length;
                 $('.js-expt-num-trials').text(totalNumberOfTrials);
                 trialData.push(headers);
-                if (currentTrial + 1 == 3)
-                    breaktime();
-                else
-                    next();
+                next();
                 pid = ACPToolKit.getCurrentParticipantId();
             })
         });
