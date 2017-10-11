@@ -5,49 +5,63 @@
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "Ash Ketchum is the main protagonist"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
             "text_number": [2],
             "data_file": "data/texts.json",
             "stimuli": "Terra Force"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
             "text_number": [3],
             "data_file": "data/texts.json",
             "stimuli": "one of the top three fighters"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "Kingdom Hearts: Chain of Memories and "
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
             "text_number": [5],
             "data_file": "data/texts.json",
             "stimuli": "the deuteragonist of The Last of Us"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
             "text_number": [6],
             "data_file": "data/texts.json",
             "stimuli": "After Zieg defeated "
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [1],
             "text_number": [2],
             "data_file": "data/texts.json",
             "stimuli": "It is equipped with the invincible ‘Grey Sword’ and ‘Brave Shield Omega’ for its WarGreymon-shaped left arm, and the ‘Garuru Cannon’ and missiles for its MetalGarurumon-shaped right arm."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [1],
@@ -99,35 +113,45 @@
             "text_number": [5],
             "data_file": "data/texts.json",
             "stimuli": "In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott). Joel contemplates leaving Ellie with Tommy, but after she confronts him about Sarah, he decides to let her stay with him. Tommy directs them to a Fireflies enclave at the University of Eastern Colorado. They find the university abandoned, but learn that the Fireflies have moved to a hospital in Salt Lake City, Utah. Afterward, Joel is severely wounded by bandits, who are killed by Ellie."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [1],
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "Eevee is a mammalian, quadruped creature with primarily brown fur. The tip of its bushy tail and its large furry collar are cream-colored. It has short, slender legs with three small toes and a pink paw pad on each foot. Eevee has brown eyes, long pointed ears, and a small black nose. This Pokémon is rarely found in the wild, and is mostly only found in cities and towns. However, Eevee is said to have an irregularly shaped genetic structure that allows it to adapt to many different kinds of environments. Eventually, Eevee may evolve to better suit its surroundings. According to Pokémon Mystery Dungeon, Eevee has a naive personality."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [1],
             "text_number": [2],
             "data_file": "data/texts.json",
             "stimuli": "Omnimon is a Warrior Digimon. One of the ‘Royal Knights‘, it was fused from the Virus BustersWarGreymon and MetalGarurumon due to the powerful wills of everyone who wished for goodness. It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [1],
             "text_number": [6],
             "data_file": "data/texts.json",
             "stimuli": "After all this is revealed, Zieg (or, more accurately, Melbu Frahma, who is now possessing Zieg's body) takes Shana away and proceeds to destroy the remaining three Signet Spheres that seal the Moon That Never Sets, the flesh of the God of Destruction, causing it to fall from the sky and land on the Divine Tree. He then carries her to the body of the God of Destruction, so that the body will sense the presence of its soul and prepare to restore itself. Instead, Melbu Frahma unites with the body himself, taking the form and power of the God of Destruction. Zieg is released from Melbu Frahma’s possession, and aids the party in their attempt to defeat Melbu. The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma. Everyone else is able to return home to live their own lives."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [1],
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "After Kingdom Hearts coded is Kingdom Hearts 3D: Dream Drop Distance, and the game's ending will lead fairly directly into Kingdom Hearts III, which will serve as the final chapter of what Tetsuya Nomura calls the ‘Xehanort Saga’."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [1],
@@ -142,78 +166,100 @@
             "num_windows": [6],
             "text_number": [3],
             "data_file": "data/texts.json",
-            "stimuli": "one of the top three fighters "
-        }, {
+            "stimuli": "one of the top three fighters"
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [6],
             "text_number": [5],
             "data_file": "data/texts.json",
             "stimuli": "the playable protagonist of The Last Of Us Part"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [6],
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "bud on its back"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [6],
             "text_number": [6],
             "data_file": "data/texts.json",
             "stimuli": "After Zieg defeated"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [6],
             "text_number": [2],
             "data_file": "data/texts.json",
             "stimuli": "Garuru Tomahawk"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [6],
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "after the Keyblade War"
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [6],
             "text_number": [5],
             "data_file": "data/texts.json",
             "stimuli": " Joel works as a smuggler with his partner Tess (Annie Wersching) in the Boston, Massachusetts, quarantine zone."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [6],
             "text_number": [6],
             "data_file": "data/texts.json",
             "stimuli": "The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [6],
             "text_number": [2],
             "data_file": "data/texts.json",
             "stimuli": "It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [6],
             "text_number": [3],
             "data_file": "data/texts.json",
             "stimuli": "He is one of the Monster Trio in the crew, alongside Luffy and Zoro."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [6],
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "Kingdom Hearts is a series of action role-playing games (RPG) developed and published by Square Enix."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
             "num_windows": [6],
@@ -229,28 +275,36 @@
             "text_number": [6],
             "data_file": "data/texts.json",
             "stimuli": " They soon discover that Lloyd is gathering other artifacts held by human kings since the days of the Wingly Empire, and at the same time, causing disasters in the lands that he visits. While the party tries to reverse Lloyd’s work, Lloyd manages to obtain all three of the artifacts, and also manages to obtain the Dragoon Spirit of the Divine Dragon, the most powerful dragon in the world. Dart and the party finally manage to defeat Lloyd, who then agrees to take them to Emperor Diaz, ancient Emperor of Gloriano during the Dragon Campaign. Emperor Diaz reveals several things to the party."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [6],
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "Pikachu is Ash's best friend. Pikachu has always been there for Ash and also takes a leadership position for the team. He is curious, smart and friendly, but shares Ash's fondness for battling. One of his most noticeable features is his determination and unwillingness to give up whenever a situation gets tough."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [6],
             "text_number": [2],
             "data_file": "data/texts.json",
             "stimuli": "MetalGarurumon is an Android Digimon whose name and design are derived from ‘Metal Garurumon‘. It is the final form of Garurumon and the ultimate form of Garurumon-species Digimon, and powered itself up by metallizing almost its entire body. Not only has it retained its natural keenness when it underwent metallization, but it can also pulverize the opponent with the countless weapons concealed throughout its body, whose number is rivaled by those of MegaGargomon, the high-temperature counterpart to the low-temperature MetalGarurumon."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [6],
             "text_number": [5],
             "data_file": "data/texts.json",
             "stimuli": " They soon discover that Lloyd is gathering other artifacts held by human kings since the days of the Wingly Empire, and at the same time, causing disasters in the lands that he visits. While the party tries to reverse Lloyd’s work, Lloyd manages to obtain all three of the artifacts, and also manages to obtain the Dragoon Spirit of the Divine Dragon, the most powerful dragon in the world. Dart and the party finally manage to defeat Lloyd, who then agrees to take them to Emperor Diaz, ancient Emperor of Gloriano during the Dragon Campaign. Emperor Diaz reveals several things to the party."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [6],
@@ -258,7 +312,9 @@
             "data_file": "data/texts.json",
             "stimuli": “After Kingdom Hearts coded is Kingdom Hearts 3 D: Dream Drop Distance,
             and the game 's ending will lead fairly directly into Kingdom Hearts III, which will serve as the final chapter of what Tetsuya Nomura calls the ‘Xehanort Saga’."
-        }, {
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "paragraph",
             "num_windows": [6],
@@ -274,7 +330,9 @@
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "after the Keyblade War "
-        }, {
+        },
+
+        {
             "technique": "TRADITIONAL",
             "granularity": "phrase",
             "num_windows": [1],
