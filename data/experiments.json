@@ -1,3 +1,5 @@
+{
+    "experiments": [
         {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
@@ -645,3 +647,5 @@
             "data_file": "data/texts.json",
             "stimuli": "After all this is revealed, Zieg (or, more accurately, Melbu Frahma, who is now possessing Zieg's body) takes Shana away and proceeds to destroy the remaining three Signet Spheres that seal the Moon That Never Sets, the flesh of the God of Destruction, causing it to fall from the sky and land on the Divine Tree. He then carries her to the body of the God of Destruction, so that the body will sense the presence of its soul and prepare to restore itself. Instead, Melbu Frahma unites with the body himself, taking the form and power of the God of Destruction. Zieg is released from Melbu Frahma’s possession, and aids the party in their attempt to defeat Melbu. The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma. Everyone else is able to return home to live their own lives."
         }
+]
+}
