@@ -323,7 +323,16 @@
             "data_file": "data/texts.json",
             "stimuli": "Since he was born in North Blue, he is the first Straw Hat not to originate from East Blue. He is one of the Monster Trio in the crew, alongside Luffy and Zoro. His dream is to find the rumoured chef's paradise, All Blue, which is where East Blue, West Blue, North Blue, and South Blue meet, along with their wildlife."
         },
-
+        
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "phrase",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "PLEASE TAKE A BREAK HERE THX. Continue once you're ready."
+        },
+        
         {
             "technique": "TRADITIONAL",
             "granularity": "phrase",

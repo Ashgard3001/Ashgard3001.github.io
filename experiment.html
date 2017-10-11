@@ -90,21 +90,21 @@
         var pid;
 
         function breakTime() {
+            var timer;
             document.getElementById("breakTime").style.visibility = "hidden";
             document.getElementById("breakTime").style.display = "none";
-            var timer;
-            var count = 60;
+            var timeCount = 60;
             document.getElementById("counter").style.visibility = "visible";
             document.getElementById("counter").style.display = "block";
-            $("#counter").text(count);
+            $("#counter").text(timeCount);
             //update display
 
             timer = setTimeout(update, 1000);
             //this allows for 'clearTimeout' if needed
 
             function update() {
-                if (count > 0) {
-                    $("#counter").text(--count);
+                if (timeCount > 0) {
+                    $("#counter").text(--timeCount);
                     timer = setTimeout(update, 1000);
                 } else {
                     document.getElementById("counter").style.visibility = "hidden";
@@ -136,9 +136,6 @@
                     trialEndTime, trialDuration, accuracy
                 ];
                 trialData.push(row);
-            }
-            if (currentTrial == 3) {
-                breaktime();
             }
 
             if (currentTrial < totalNumberOfTrials) {

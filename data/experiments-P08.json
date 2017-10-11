@@ -325,6 +325,15 @@
         },
 
         {
+            "technique": "TRADITIONAL",
+            "granularity": "phrase",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "PLEASE TAKE A BREAK HERE THX. Continue once you're ready."
+        },
+
+        {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [6],
