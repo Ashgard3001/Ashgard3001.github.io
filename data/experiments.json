@@ -166,7 +166,7 @@
             "num_windows": [6],
             "text_number": [3],
             "data_file": "data/texts.json",
-            "stimuli": "one of the top three fighters"
+            "stimuli": "top three fighters"
         },
 
         {
