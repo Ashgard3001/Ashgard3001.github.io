@@ -89,6 +89,33 @@
         var trialData = [];
         var pid;
 
+        function breakTime() {
+            document.getElementById("breakTime").style.visibility = "hidden";
+            document.getElementById("breakTime").style.display = "none";
+            var timer;
+            var count = 60;
+            document.getElementById("counter").style.visibility = "visible";
+            document.getElementById("counter").style.display = "block";
+            $("#counter").text(count);
+            //update display
+
+            timer = setTimeout(update, 1000);
+            //this allows for 'clearTimeout' if needed
+
+            function update() {
+                if (count > 0) {
+                    $("#counter").text(--count);
+                    timer = setTimeout(update, 1000);
+                } else {
+                    document.getElementById("counter").style.visibility = "hidden";
+                    document.getElementById("counter").style.display = "none";
+                    document.getElementById("next").style.visibility = "visible";
+                    document.getElementById("next").style.display = "block";
+                    next();
+                }
+            }
+        }
+
         function next() {
             if (currentTrial !== 0) {
                 var trialResult = ACPToolKit.getCurrentTrialState();
