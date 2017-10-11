@@ -1,4 +1,7 @@
-WarGreymon is a Dragon Digimon whose name and design are derived from 'War Greymon'. The strongest dragon warrior whose body is clad in armor of the super-metal 'Chrome Digizoid', it is the ultimate form of Greymon-species Digimon. Though it differs from the gigantic figure seen in Greymon-species Digimon, and has the form of a Man-type, it has rapidly improved its speed and power, and it is likely impossible to defeat it with the attacks of an Ultimate Digimon. The 'Dramon Killers' equipped to both of its arms exhibit immense power against Dramon-species Digimon, while simultaneously being double-edged swords that put its own life at great risk. Also, when the shells equipped on its back unite into one, they become the 'Brave Shield', which is a shield of the strongest toughness. It is said that the moment that a true hero among veteran warriors awakens to its own mission, it digivolves into WarGreymon. It bears the Crest of Courage on the Brave Shield.
+WarGreymon is a Dragon Digimon whose name and design are derived from 'War Greymon'. The strongest dragon warrior whose body is clad in armor of the super-metal 'Chrome Digizoid', it is the ultimate form of Greymon-species Digimon. Though it differs from the gigantic figure seen in Greymon-species Digimon, and has the form of a Man-type, it has rapidly improved its speed and power, and it is likely impossible to defeat it with the attacks of an Ultimate Digimon. 
+
+The 'Dramon Killers' equipped to both of its arms exhibit immense power against Dramon-species Digimon, while simultaneously being double-edged swords that put its own life at great risk. Also, when the shells equipped on its back unite into one, they become the 'Brave Shield', which is a shield of the strongest toughness. It is said that the moment that a true hero among veteran warriors awakens to its own mission, it digivolves into WarGreymon. It bears the Crest of Courage on the Brave Shield.
+
 It has the following attacks:
 Terra Force (Gaia Force): Takes all of the energy within the atmosphere and concentrates it into one spot, then fires it as an extremely dense, high-temperature energy shot.
 Great Tornado: Spins at tremendous speed like a tornado and launches itself at the enemy.
@@ -6,7 +9,10 @@ Brave Shield: Uses its 'Brave Shield' to defend.
 Mega Claw (Dramon Killer): Slashes its 'Dramon Killer' gauntlets.
 Dragon Killer
 
-MetalGarurumon is an Android Digimon whose name and design are derived from 'Metal Garurumon'. It is the final form of Garurumon and the ultimate form of Garurumon-species Digimon,[8] and powered itself up by metallizing almost its entire body. Not only has it retained its natural keenness when it underwent metallization, but it can also pulverize the opponent with the countless weapons concealed throughout its body, whose number is rivaled by those of MegaGargomon, the high-temperature counterpart to the low-temperature MetalGarurumon.[9] It radiates invisible lasers from the four Laser Sights on its snout, and because it is able to analyze the targets before it using all of its sensors, such as infrared rays and X-rays, it is impossible to escape MetalGarurumon even when among the darkness outside of its field of vision. Also, it can release beam-shaped wings from the arms extending from its back, allowing it to fly about the Net Space at extremely high speed.
+MetalGarurumon is an Android Digimon whose name and design are derived from 'Metal Garurumon'. It is the final form of Garurumon and the ultimate form of Garurumon-species Digimon,[8] and powered itself up by metallizing almost its entire body. Not only has it retained its natural keenness when it underwent metallization, but it can also pulverize the opponent with the countless weapons concealed throughout its body, whose number is rivaled by those of MegaGargomon, the high-temperature counterpart to the low-temperature MetalGarurumon. 
+
+It radiates invisible lasers from the four Laser Sights on its snout, and because it is able to analyze the targets before it using all of its sensors, such as infrared rays and X-rays, it is impossible to escape MetalGarurumon even when among the darkness outside of its field of vision. Also, it can release beam-shaped wings from the arms extending from its back, allowing it to fly about the Net Space at extremely high speed.
+
 It has the following attacks:
 Metal Wolf Claw (Cocytus Breath): Spews cold air at absolute zero that completely freezes everything, and instantly brings the victim's vital functions to a halt.
 Grace Cross Freezer: Launches freezing missiles from all of the weapons hidden throughout its body.
@@ -15,7 +21,10 @@ Metal Wolf Snout: Fires four energy beams from the four laser sites on its snout
 Metal Howling
 Metal Fang
 
-Omnimon is a Warrior Digimon. One of the 'Royal Knights', it was fused from the Virus BustersWarGreymon and MetalGarurumon due to the powerful wills of everyone who wished for goodness. It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation. It is equipped with the invincible 'Grey Sword' and 'Brave Shield Omega' for its WarGreymon-shaped left arm, and the 'Garuru Cannon' and missiles for its MetalGarurumon-shaped right arm. As for the mantle on its back, it is automatically deployed when it dodges an opponent's attack, or when it is flying. Like OmniShoutmon, upon whom it had bestowed the legendary 'Digivolution', it possesses the power of 'Omega inForce'.
+Omnimon is a Warrior Digimon. One of the 'Royal Knights', it was fused from the Virus BustersWarGreymon and MetalGarurumon due to the powerful wills of everyone who wished for goodness. It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation. 
+
+It is equipped with the invincible 'Grey Sword' and 'Brave Shield Omega' for its WarGreymon-shaped left arm, and the 'Garuru Cannon' and missiles for its MetalGarurumon-shaped right arm. As for the mantle on its back, it is automatically deployed when it dodges an opponent's attack, or when it is flying. Like OmniShoutmon, upon whom it had bestowed the legendary 'Digivolution', it possesses the power of 'Omega inForce'.
+
 It has the following attacks:
 Supreme Cannon (Garuru Cannon): Freezes the opponent with frigid, absolute zero shots that it fires from the Garuru Cannon.
 Transcendent Sword (Grey Sword): Slashes with the Grey Sword.
