@@ -123,7 +123,10 @@
         }
 
         $(document).ready(function() {
-            $.get('data/experiments.json', function(data) {
+            var filepath = "data/experiments-";
+            participantId = ACPToolKit.getCurrentParticipantId();
+            filepath = filepath + participantId + ".json"; //concatenate the respective pid strings to the file path
+            $.get(filepath, function(data) {
                 //parseData = JSON.parse(data);
                 trialsData = /*parseD*/ data.experiments;
                 currentTrial = 0;

@@ -4,9 +4,9 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
-            "text_number": [1],
+            "text_number": [3],
             "data_file": "data/texts.json",
-            "stimuli": "Ash Ketchum is the main protagonist"
+            "stimuli": "one of the top three fighters"
         },
 
         {
@@ -22,9 +22,9 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
-            "text_number": [3],
+            "text_number": [1],
             "data_file": "data/texts.json",
-            "stimuli": "one of the top three fighters"
+            "stimuli": "Ash Ketchum is the main protagonist"
         },
 
         {
@@ -160,168 +160,6 @@
             "text_number": [3],
             "data_file": "data/texts.json",
             "stimuli": "Roronoa Zoro, also known as ’Pirate Hunter’ Zoro, is a pirate and a former bounty hunter. He was the first member to join the Straw Hat Pirates, and, to date, is considered the largest threat and most dangerous member in the crew after Luffy. His fame as a master swordsman and his great strength, along with the actions of his captain, sometimes led others to believe he was the true captain of the crew."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "phrase",
-            "num_windows": [6],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "top three fighters"
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "phrase",
-            "num_windows": [6],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": "the playable protagonist of The Last Of Us Part"
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "phrase",
-            "num_windows": [6],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "bud on its back"
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "phrase",
-            "num_windows": [6],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": "After Zieg defeated"
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "phrase",
-            "num_windows": [6],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "Garuru Tomahawk"
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "phrase",
-            "num_windows": [6],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "after the Keyblade War"
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [6],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": " Joel works as a smuggler with his partner Tess (Annie Wersching) in the Boston, Massachusetts, quarantine zone."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [6],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": "The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [6],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [6],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "He is one of the Monster Trio in the crew, alongside Luffy and Zoro."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [6],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "Kingdom Hearts is a series of action role-playing games (RPG) developed and published by Square Enix."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [6],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "Charizard is a draconic, bipedal Pokémon."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [6],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": " They soon discover that Lloyd is gathering other artifacts held by human kings since the days of the Wingly Empire, and at the same time, causing disasters in the lands that he visits. While the party tries to reverse Lloyd’s work, Lloyd manages to obtain all three of the artifacts, and also manages to obtain the Dragoon Spirit of the Divine Dragon, the most powerful dragon in the world. Dart and the party finally manage to defeat Lloyd, who then agrees to take them to Emperor Diaz, ancient Emperor of Gloriano during the Dragon Campaign. Emperor Diaz reveals several things to the party."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [6],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "Pikachu is Ash's best friend. Pikachu has always been there for Ash and also takes a leadership position for the team. He is curious, smart and friendly, but shares Ash's fondness for battling. One of his most noticeable features is his determination and unwillingness to give up whenever a situation gets tough."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [6],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "MetalGarurumon is an Android Digimon whose name and design are derived from ‘Metal Garurumon‘. It is the final form of Garurumon and the ultimate form of Garurumon-species Digimon, and powered itself up by metallizing almost its entire body. Not only has it retained its natural keenness when it underwent metallization, but it can also pulverize the opponent with the countless weapons concealed throughout its body, whose number is rivaled by those of MegaGargomon, the high-temperature counterpart to the low-temperature MetalGarurumon."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [6],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": " They soon discover that Lloyd is gathering other artifacts held by human kings since the days of the Wingly Empire, and at the same time, causing disasters in the lands that he visits. While the party tries to reverse Lloyd’s work, Lloyd manages to obtain all three of the artifacts, and also manages to obtain the Dragoon Spirit of the Divine Dragon, the most powerful dragon in the world. Dart and the party finally manage to defeat Lloyd, who then agrees to take them to Emperor Diaz, ancient Emperor of Gloriano during the Dragon Campaign. Emperor Diaz reveals several things to the party."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [6],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "After Kingdom Hearts coded is Kingdom Hearts 3 D: Dream Drop Distance,and the game 's ending will lead fairly directly into Kingdom Hearts III, which will serve as the final chapter of what Tetsuya Nomura calls the ‘Xehanort Saga’."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [6],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "Since he was born in North Blue, he is the first Straw Hat not to originate from East Blue. He is one of the Monster Trio in the crew, alongside Luffy and Zoro. His dream is to find the rumoured chef's paradise, All Blue, which is where East Blue, West Blue, North Blue, and South Blue meet, along with their wildlife."
         },
 
         {
@@ -484,6 +322,168 @@
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series. In addition, it has an all - star voice cast which includes many of the Disney characters' official voice actors. Characters from Square Enix's Final Fantasy series make appearances and interact with the player and Disney characters.The series centers around the main character, Sora, in his search for his friends and his encounters with Disney and Final Fantasy characters on their worlds"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [6],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "top three fighters"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [6],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": "the playable protagonist of The Last Of Us Part"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [6],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "bud on its back"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [6],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "After Zieg defeated"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [6],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "Garuru Tomahawk"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "phrase",
+            "num_windows": [6],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "after the Keyblade War"
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [6],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": " Joel works as a smuggler with his partner Tess (Annie Wersching) in the Boston, Massachusetts, quarantine zone."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [6],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [6],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [6],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "He is one of the Monster Trio in the crew, alongside Luffy and Zoro."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [6],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "Kingdom Hearts is a series of action role-playing games (RPG) developed and published by Square Enix."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [6],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "Charizard is a draconic, bipedal Pokémon."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [6],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": " They soon discover that Lloyd is gathering other artifacts held by human kings since the days of the Wingly Empire, and at the same time, causing disasters in the lands that he visits. While the party tries to reverse Lloyd’s work, Lloyd manages to obtain all three of the artifacts, and also manages to obtain the Dragoon Spirit of the Divine Dragon, the most powerful dragon in the world. Dart and the party finally manage to defeat Lloyd, who then agrees to take them to Emperor Diaz, ancient Emperor of Gloriano during the Dragon Campaign. Emperor Diaz reveals several things to the party."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [6],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "Pikachu is Ash's best friend. Pikachu has always been there for Ash and also takes a leadership position for the team. He is curious, smart and friendly, but shares Ash's fondness for battling. One of his most noticeable features is his determination and unwillingness to give up whenever a situation gets tough."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [6],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "MetalGarurumon is an Android Digimon whose name and design are derived from ‘Metal Garurumon‘. It is the final form of Garurumon and the ultimate form of Garurumon-species Digimon, and powered itself up by metallizing almost its entire body. Not only has it retained its natural keenness when it underwent metallization, but it can also pulverize the opponent with the countless weapons concealed throughout its body, whose number is rivaled by those of MegaGargomon, the high-temperature counterpart to the low-temperature MetalGarurumon."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [6],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": " They soon discover that Lloyd is gathering other artifacts held by human kings since the days of the Wingly Empire, and at the same time, causing disasters in the lands that he visits. While the party tries to reverse Lloyd’s work, Lloyd manages to obtain all three of the artifacts, and also manages to obtain the Dragoon Spirit of the Divine Dragon, the most powerful dragon in the world. Dart and the party finally manage to defeat Lloyd, who then agrees to take them to Emperor Diaz, ancient Emperor of Gloriano during the Dragon Campaign. Emperor Diaz reveals several things to the party."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [6],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "After Kingdom Hearts coded is Kingdom Hearts 3 D: Dream Drop Distance,and the game 's ending will lead fairly directly into Kingdom Hearts III, which will serve as the final chapter of what Tetsuya Nomura calls the ‘Xehanort Saga’."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [6],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "Since he was born in North Blue, he is the first Straw Hat not to originate from East Blue. He is one of the Monster Trio in the crew, alongside Luffy and Zoro. His dream is to find the rumoured chef's paradise, All Blue, which is where East Blue, West Blue, North Blue, and South Blue meet, along with their wildlife."
         },
 
         {

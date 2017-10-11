@@ -4,18 +4,18 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
-            "text_number": [1],
+            "text_number": [2],
             "data_file": "data/texts.json",
-            "stimuli": "Ash Ketchum is the main protagonist"
+            "stimuli": "Terra Force"
         },
 
         {
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
-            "text_number": [2],
+            "text_number": [1],
             "data_file": "data/texts.json",
-            "stimuli": "Terra Force"
+            "stimuli": "Ash Ketchum is the main protagonist"
         },
 
         {
@@ -52,114 +52,6 @@
             "text_number": [6],
             "data_file": "data/texts.json",
             "stimuli": "After Zieg defeated "
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "It is equipped with the invincible ‘Grey Sword’ and ‘Brave Shield Omega’ for its WarGreymon-shaped left arm, and the ‘Garuru Cannon’ and missiles for its MetalGarurumon-shaped right arm."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": "During the height of the Wingly Empire over eleven thousand years ago, a creature called the Virage Embryo, also known as the God of Destruction, came to the world to end all other life."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "He is one of the top three fighters in the crew alongside Luffy and Sanji, and his dream is to become the greatest swordsman in the world."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": "Joel is a major character and the playable protagonist of The Last of Us, the deuteragonist of The Last of Us Part II, and a supporting character in The Last of Us: Left Behind."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "In the original series, Ash wears a white and blue short sleeved jacket with gold trim, white collar and sleeves, a dark teal T-shirt, blue jeans with light blue cuffs, black and white sneakers with red dots, green fingerless gloves with light green borders and a red and white cap with a green stylized L."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": "In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott). Joel contemplates leaving Ellie with Tommy, but after she confronts him about Sarah, he decides to let her stay with him. Tommy directs them to a Fireflies enclave at the University of Eastern Colorado. They find the university abandoned, but learn that the Fireflies have moved to a hospital in Salt Lake City, Utah. Afterward, Joel is severely wounded by bandits, who are killed by Ellie."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "Eevee is a mammalian, quadruped creature with primarily brown fur. The tip of its bushy tail and its large furry collar are cream-colored. It has short, slender legs with three small toes and a pink paw pad on each foot. Eevee has brown eyes, long pointed ears, and a small black nose. This Pokémon is rarely found in the wild, and is mostly only found in cities and towns. However, Eevee is said to have an irregularly shaped genetic structure that allows it to adapt to many different kinds of environments. Eventually, Eevee may evolve to better suit its surroundings. According to Pokémon Mystery Dungeon, Eevee has a naive personality."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "Omnimon is a Warrior Digimon. One of the ‘Royal Knights‘, it was fused from the Virus BustersWarGreymon and MetalGarurumon due to the powerful wills of everyone who wished for goodness. It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": "After all this is revealed, Zieg (or, more accurately, Melbu Frahma, who is now possessing Zieg's body) takes Shana away and proceeds to destroy the remaining three Signet Spheres that seal the Moon That Never Sets, the flesh of the God of Destruction, causing it to fall from the sky and land on the Divine Tree. He then carries her to the body of the God of Destruction, so that the body will sense the presence of its soul and prepare to restore itself. Instead, Melbu Frahma unites with the body himself, taking the form and power of the God of Destruction. Zieg is released from Melbu Frahma’s possession, and aids the party in their attempt to defeat Melbu. The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma. Everyone else is able to return home to live their own lives."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "After Kingdom Hearts coded is Kingdom Hearts 3D: Dream Drop Distance, and the game's ending will lead fairly directly into Kingdom Hearts III, which will serve as the final chapter of what Tetsuya Nomura calls the ‘Xehanort Saga’."
-        },
-
-        {
-            "technique": "AUTOCOMPASTE",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "Roronoa Zoro, also known as ’Pirate Hunter’ Zoro, is a pirate and a former bounty hunter. He was the first member to join the Straw Hat Pirates, and, to date, is considered the largest threat and most dangerous member in the crew after Luffy. His fame as a master swordsman and his great strength, along with the actions of his captain, sometimes led others to believe he was the true captain of the crew."
         },
 
         {
@@ -219,6 +111,60 @@
         {
             "technique": "AUTOCOMPASTE",
             "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "It is equipped with the invincible ‘Grey Sword’ and ‘Brave Shield Omega’ for its WarGreymon-shaped left arm, and the ‘Garuru Cannon’ and missiles for its MetalGarurumon-shaped right arm."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "During the height of the Wingly Empire over eleven thousand years ago, a creature called the Virage Embryo, also known as the God of Destruction, came to the world to end all other life."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "He is one of the top three fighters in the crew alongside Luffy and Sanji, and his dream is to become the greatest swordsman in the world."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": "Joel is a major character and the playable protagonist of The Last of Us, the deuteragonist of The Last of Us Part II, and a supporting character in The Last of Us: Left Behind."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "In the original series, Ash wears a white and blue short sleeved jacket with gold trim, white collar and sleeves, a dark teal T-shirt, blue jeans with light blue cuffs, black and white sneakers with red dots, green fingerless gloves with light green borders and a red and white cap with a green stylized L."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "sentence",
             "num_windows": [6],
             "text_number": [5],
             "data_file": "data/texts.json",
@@ -268,6 +214,60 @@
             "text_number": [1],
             "data_file": "data/texts.json",
             "stimuli": "Charizard is a draconic, bipedal Pokémon."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": "In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott). Joel contemplates leaving Ellie with Tommy, but after she confronts him about Sarah, he decides to let her stay with him. Tommy directs them to a Fireflies enclave at the University of Eastern Colorado. They find the university abandoned, but learn that the Fireflies have moved to a hospital in Salt Lake City, Utah. Afterward, Joel is severely wounded by bandits, who are killed by Ellie."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "Eevee is a mammalian, quadruped creature with primarily brown fur. The tip of its bushy tail and its large furry collar are cream-colored. It has short, slender legs with three small toes and a pink paw pad on each foot. Eevee has brown eyes, long pointed ears, and a small black nose. This Pokémon is rarely found in the wild, and is mostly only found in cities and towns. However, Eevee is said to have an irregularly shaped genetic structure that allows it to adapt to many different kinds of environments. Eventually, Eevee may evolve to better suit its surroundings. According to Pokémon Mystery Dungeon, Eevee has a naive personality."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "Omnimon is a Warrior Digimon. One of the ‘Royal Knights‘, it was fused from the Virus BustersWarGreymon and MetalGarurumon due to the powerful wills of everyone who wished for goodness. It is a Digimon who has combined the special qualities of two bodies, so it is a multitype warrior which can fully demonstrate those abilities, for any given situation."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "After all this is revealed, Zieg (or, more accurately, Melbu Frahma, who is now possessing Zieg's body) takes Shana away and proceeds to destroy the remaining three Signet Spheres that seal the Moon That Never Sets, the flesh of the God of Destruction, causing it to fall from the sky and land on the Divine Tree. He then carries her to the body of the God of Destruction, so that the body will sense the presence of its soul and prepare to restore itself. Instead, Melbu Frahma unites with the body himself, taking the form and power of the God of Destruction. Zieg is released from Melbu Frahma’s possession, and aids the party in their attempt to defeat Melbu. The party defeats him, but at the cost of Rose and Zieg who sacrifice themselves to destroy Melbu Frahma. Everyone else is able to return home to live their own lives."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "After Kingdom Hearts coded is Kingdom Hearts 3D: Dream Drop Distance, and the game's ending will lead fairly directly into Kingdom Hearts III, which will serve as the final chapter of what Tetsuya Nomura calls the ‘Xehanort Saga’."
+        },
+
+        {
+            "technique": "AUTOCOMPASTE",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "Roronoa Zoro, also known as ’Pirate Hunter’ Zoro, is a pirate and a former bounty hunter. He was the first member to join the Straw Hat Pirates, and, to date, is considered the largest threat and most dangerous member in the crew after Luffy. His fame as a master swordsman and his great strength, along with the actions of his captain, sometimes led others to believe he was the true captain of the crew."
         },
 
         {
@@ -377,115 +377,6 @@
             "data_file": "data/texts.json",
             "stimuli": "one of the Monster Trio"
         },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": "In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott)."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "He is officially the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "Blastoise is a large, bipedal tortoise-like Pokémon."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "Also, when the shells equipped on its back unite into one, they become the ‘Brave Shield’, which is a shield of the strongest toughness."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "sentence",
-            "num_windows": [1],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": "After Zieg defeated Melbu Frahma, Melbu cast a spell that both petrified him and kept Melbu's spirit alive within Zieg's body."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [3],
-            "data_file": "data/texts.json",
-            "stimuli": "Roronoa Zoro, also known as ’Pirate Hunter’ Zoro, is a pirate and a former bounty hunter. He was the first member to join the Straw Hat Pirates, and, to date, is considered the largest threat and most dangerous member in the crew after Luffy. His fame as a master swordsman and his great strength, along with the actions of his captain, sometimes led others to believe he was the true captain of the crew."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [6],
-            "data_file": "data/texts.json",
-            "stimuli": "The story begins when Dart, the protagonist, is heading home from a five year long journey to pursue the black monster, who killed his parents and destroyed his birth city, Neet. On the way, he is attacked by Feyrbrand, a mantis-like dragon controlled by the Sandora, a rebel faction in the Serdian civil war. Dart is saved by a mysterious female heroine named Rose, though they soon part ways. When he arrives at his hometown, Seles, he discovers that it has been destroyed by Sandora, and that Shana, Dart’s childhood friend (and later in the game, his love interest), has been taken away. Dart sets out to rescue her. Throughout the game, he is periodically joined by people that he helps along the way"
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [1],
-            "data_file": "data/texts.json",
-            "stimuli": "Ash Ketchum is the main protagonist of the Pokémon anime series who has always dreamed of becoming a Pokémon Master. As soon as he turned ten years old, he rushed to Professor Oak's Laboratory to get his first Pokémon. He is the first human character to be introduced in the series. In the original series, Ash wears a white and blue short sleeved jacket with gold trim, white collar and sleeves, a dark teal T-shirt, blue jeans with light blue cuffs, black and white sneakers with red dots, green fingerless gloves with light green borders and a red and white cap with a green stylized L."
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [5],
-            "data_file": "data/texts.json",
-            "stimuli": "Joel is a major character and the playable protagonist of The Last of Us, the deuteragonist of The Last of Us Part II, and a supporting character in The Last of Us: Left Behind. Joel is a survivor of the cordyceps brain infection, which has wiped out 60% of mankind globally. After losing his daughter Sarah in the outbreak, Joel becomes a ruthless and cynical smuggler eventually tasked with smuggling and protecting Ellie, a young girl who is the key to mankind's survival. Joel eventually comes to form a strong bond with her. He is voiced and motion captured by Troy Baker"
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [2],
-            "data_file": "data/texts.json",
-            "stimuli": "WarGreymon is a Dragon Digimon whose name and design are derived from ‘War Greymon‘. The strongest dragon warrior whose body is clad in armor of the super-metal ‘Chrome Digizoid‘, it is the ultimate form of Greymon-species Digimon. Though it differs from the gigantic figure seen in Greymon-species Digimon, and has the form of a Man-type, it has rapidly improved its speed and power, and it is likely impossible to defeat it with the attacks of an Ultimate Digimon"
-        },
-
-        {
-            "technique": "TRADITIONAL",
-            "granularity": "paragraph",
-            "num_windows": [1],
-            "text_number": [4],
-            "data_file": "data/texts.json",
-            "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series. In addition, it has an all - star voice cast which includes many of the Disney characters' official voice actors. Characters from Square Enix's Final Fantasy series make appearances and interact with the player and Disney characters.The series centers around the main character, Sora, in his search for his friends and his encounters with Disney and Final Fantasy characters on their worlds"
-        },
-
         {
             "technique": "TRADITIONAL",
             "granularity": "phrase",
@@ -543,6 +434,60 @@
         {
             "technique": "TRADITIONAL",
             "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": "In the fall, Joel and Ellie finally find Tommy in Jackson, Wyoming, where he has assembled a fortified settlement near a hydroelectric dam with his wife Maria (Ashley Scott)."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "He is officially the fifth member of the crew and the fourth to join, doing so at the end of the Baratie Arc."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "Blastoise is a large, bipedal tortoise-like Pokémon."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "Also, when the shells equipped on its back unite into one, they become the ‘Brave Shield’, which is a shield of the strongest toughness."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "sentence",
+            "num_windows": [1],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "After Zieg defeated Melbu Frahma, Melbu cast a spell that both petrified him and kept Melbu's spirit alive within Zieg's body."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "sentence",
             "num_windows": [6],
             "text_number": [2],
             "data_file": "data/texts.json",
@@ -592,6 +537,60 @@
             "text_number": [4],
             "data_file": "data/texts.json",
             "stimuli": "The Kingdom Hearts series currently consists of seven games across different video game platforms, with two remakes, and four spin-off games."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [3],
+            "data_file": "data/texts.json",
+            "stimuli": "Roronoa Zoro, also known as ’Pirate Hunter’ Zoro, is a pirate and a former bounty hunter. He was the first member to join the Straw Hat Pirates, and, to date, is considered the largest threat and most dangerous member in the crew after Luffy. His fame as a master swordsman and his great strength, along with the actions of his captain, sometimes led others to believe he was the true captain of the crew."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [6],
+            "data_file": "data/texts.json",
+            "stimuli": "The story begins when Dart, the protagonist, is heading home from a five year long journey to pursue the black monster, who killed his parents and destroyed his birth city, Neet. On the way, he is attacked by Feyrbrand, a mantis-like dragon controlled by the Sandora, a rebel faction in the Serdian civil war. Dart is saved by a mysterious female heroine named Rose, though they soon part ways. When he arrives at his hometown, Seles, he discovers that it has been destroyed by Sandora, and that Shana, Dart’s childhood friend (and later in the game, his love interest), has been taken away. Dart sets out to rescue her. Throughout the game, he is periodically joined by people that he helps along the way"
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [1],
+            "data_file": "data/texts.json",
+            "stimuli": "Ash Ketchum is the main protagonist of the Pokémon anime series who has always dreamed of becoming a Pokémon Master. As soon as he turned ten years old, he rushed to Professor Oak's Laboratory to get his first Pokémon. He is the first human character to be introduced in the series. In the original series, Ash wears a white and blue short sleeved jacket with gold trim, white collar and sleeves, a dark teal T-shirt, blue jeans with light blue cuffs, black and white sneakers with red dots, green fingerless gloves with light green borders and a red and white cap with a green stylized L."
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [5],
+            "data_file": "data/texts.json",
+            "stimuli": "Joel is a major character and the playable protagonist of The Last of Us, the deuteragonist of The Last of Us Part II, and a supporting character in The Last of Us: Left Behind. Joel is a survivor of the cordyceps brain infection, which has wiped out 60% of mankind globally. After losing his daughter Sarah in the outbreak, Joel becomes a ruthless and cynical smuggler eventually tasked with smuggling and protecting Ellie, a young girl who is the key to mankind's survival. Joel eventually comes to form a strong bond with her. He is voiced and motion captured by Troy Baker"
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [2],
+            "data_file": "data/texts.json",
+            "stimuli": "WarGreymon is a Dragon Digimon whose name and design are derived from ‘War Greymon‘. The strongest dragon warrior whose body is clad in armor of the super-metal ‘Chrome Digizoid‘, it is the ultimate form of Greymon-species Digimon. Though it differs from the gigantic figure seen in Greymon-species Digimon, and has the form of a Man-type, it has rapidly improved its speed and power, and it is likely impossible to defeat it with the attacks of an Ultimate Digimon"
+        },
+
+        {
+            "technique": "TRADITIONAL",
+            "granularity": "paragraph",
+            "num_windows": [1],
+            "text_number": [4],
+            "data_file": "data/texts.json",
+            "stimuli": "Kingdom Hearts is a crossover of various Disney settings based in a universe made specifically for the series. In addition, it has an all - star voice cast which includes many of the Disney characters' official voice actors. Characters from Square Enix's Final Fantasy series make appearances and interact with the player and Disney characters.The series centers around the main character, Sora, in his search for his friends and his encounters with Disney and Final Fantasy characters on their worlds"
         },
 
         {

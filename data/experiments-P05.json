@@ -4,9 +4,9 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
-            "text_number": [1],
+            "text_number": [5],
             "data_file": "data/texts.json",
-            "stimuli": "Ash Ketchum is the main protagonist"
+            "stimuli": "the deuteragonist of The Last of Us"
         },
 
         {
@@ -40,9 +40,9 @@
             "technique": "AUTOCOMPASTE",
             "granularity": "phrase",
             "num_windows": [1],
-            "text_number": [5],
+            "text_number": [1],
             "data_file": "data/texts.json",
-            "stimuli": "the deuteragonist of The Last of Us"
+            "stimuli": "Ash Ketchum is the main protagonist"
         },
 
         {
